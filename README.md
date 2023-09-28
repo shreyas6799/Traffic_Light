@@ -1,1 +1,2 @@
 # Traffic_Light controller using microcontroller
+Using a microcontroller, the traffic light in this project will operate automatically.B and D's green light will be on when the A and C traffic red signal is on. B and D's traffic green light will be ON when A and C's traffic yellow light is ON. A and C's green light will turn on when B and D's red light turns on. additionally, if B & D's yellow light is on, A & C's green light will also be on.
